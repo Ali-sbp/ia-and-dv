@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="504pt" viewBox="0 0 864 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T02:21:32.060061</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 864 504 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 86.4 403.2 
+L 829.44 403.2 
+L 829.44 126 
+L 86.4 126 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="150.412758" y="422.317187" transform="rotate(-0 150.412758 422.317187)">P-01</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="252.915172" y="422.317187" transform="rotate(-0 252.915172 422.317187)">P-02</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="355.417586" y="422.317187" transform="rotate(-0 355.417586 422.317187)">P-03</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d5b99" x="457.92" y="422.317187" transform="rotate(-0 457.92 422.317187)">P-04</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="560.422414" y="422.317187" transform="rotate(-0 560.422414 422.317187)">P-05</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="662.924828" y="422.317187" transform="rotate(-0 662.924828 422.317187)">P-06</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="765.427242" y="422.317187" transform="rotate(-0 765.427242 422.317187)">P-07</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="457.92" y="448.317187" transform="rotate(-0 457.92 448.317187)">Правило SIEM</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_8"/>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #5f6b77" x="76.4" y="407.758594" transform="rotate(-0 76.4 407.758594)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9"/>
+     <g id="text_10">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #5f6b77" x="76.4" y="341.758594" transform="rotate(-0 76.4 341.758594)">25</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10"/>
+     <g id="text_11">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #5f6b77" x="76.4" y="275.758594" transform="rotate(-0 76.4 275.758594)">50</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11"/>
+     <g id="text_12">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #5f6b77" x="76.4" y="209.758594" transform="rotate(-0 76.4 209.758594)">75</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_12"/>
+     <g id="text_13">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #5f6b77" x="76.4" y="143.758594" transform="rotate(-0 76.4 143.758594)">100</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="36.612188" y="264.6" transform="rotate(-90 36.612188 264.6)">Количество алертов</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 120.174545 403.2 
+L 180.65097 403.2 
+L 180.65097 313.44 
+L 120.174545 313.44 
+z
+" clip-path="url(#pe4c957b030)" style="fill: #b8c2cc"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 222.67696 403.2 
+L 283.153384 403.2 
+L 283.153384 265.92 
+L 222.67696 265.92 
+z
+" clip-path="url(#pe4c957b030)" style="fill: #b8c2cc"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 325.179374 403.2 
+L 385.655798 403.2 
+L 385.655798 329.28 
+L 325.179374 329.28 
+z
+" clip-path="url(#pe4c957b030)" style="fill: #b8c2cc"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 427.681788 403.2 
+L 488.158212 403.2 
+L 488.158212 170.88 
+L 427.681788 170.88 
+z
+" clip-path="url(#pe4c957b030)" style="fill: #1d5b99"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 530.184202 403.2 
+L 590.660626 403.2 
+L 590.660626 281.76 
+L 530.184202 281.76 
+z
+" clip-path="url(#pe4c957b030)" style="fill: #b8c2cc"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 632.686616 403.2 
+L 693.16304 403.2 
+L 693.16304 242.16 
+L 632.686616 242.16 
+z
+" clip-path="url(#pe4c957b030)" style="fill: #b8c2cc"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 735.18903 403.2 
+L 795.665455 403.2 
+L 795.665455 345.12 
+L 735.18903 345.12 
+z
+" clip-path="url(#pe4c957b030)" style="fill: #b8c2cc"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 86.4 403.2 
+L 829.44 403.2 
+" style="fill: none; stroke: #8c98a5; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="150.412758" y="304.268719" transform="rotate(-0 150.412758 304.268719)">34</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="252.915172" y="256.748719" transform="rotate(-0 252.915172 256.748719)">52</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="355.417586" y="320.108719" transform="rotate(-0 355.417586 320.108719)">28</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d5b99" x="457.92" y="161.708719" transform="rotate(-0 457.92 161.708719)">88</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="560.422414" y="272.588719" transform="rotate(-0 560.422414 272.588719)">46</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="662.924828" y="232.988719" transform="rotate(-0 662.924828 232.988719)">61</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #25313d" x="765.427242" y="335.948719" transform="rotate(-0 765.427242 335.948719)">22</text>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #25313d" x="86.4" y="45.36" transform="rotate(-0 86.4 45.36)">Алерты по правилам SIEM за сутки</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #25313d" x="86.4" y="75.6" transform="rotate(-0 86.4 75.6)">Максимум у P-04: 88 алертов за сутки.</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5f6b77" x="86.4" y="466.2" transform="rotate(-0 86.4 466.2)">Данные условные. Синим выделено наибольшее количество алертов; критичность цветом не кодируется.</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5f6b77" x="86.4" y="486.36" transform="rotate(-0 86.4 486.36)">Источник: лекция 2.2, страница 27. Значения и порядок правил сохранены.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe4c957b030">
+   <rect x="86.4" y="126" width="743.04" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>
